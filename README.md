@@ -9,5 +9,4 @@ Currently founded my own IT-Agency. - CodeLax IT GmbH  🍻🚀
 
 - [Website - https://codelax.com/](https://codelax.com/)
 - [LinkedIn](https://www.linkedin.com/in/karlvonbonin/)
-- [Xing](https://www.xing.com/profile/Karl_vonBonin/cv)
 
