@@ -1,12 +1,17 @@
-## Hello, I'm Karl 👋👋
+## Hey, I'm Karl 👋
 
-I’m a passionate (freelance) developer and consultant with a strong design and entrepreneurial background.
-I have founded several startups, developed web shops, web apps, native apps and games for more than 12 years now.
+**Entrepreneur. Developer. Tech enthusiast. And proud father.**  
 
-Iam the founder and CEO of a german agency called "CodeLax" 🍻🚀  --> @codelaxIT
+For over 12 years, I’ve been building digital products that matter – from webshops and web apps to native apps and games.  
+I love turning ideas into real-world impact, whether in fast-moving startups or with established clients.  
 
-### Get in touch via
+I'm the founder & CEO of **CodeLax** 🍻🚀  
+We challenge the status quo with clean code, smart design, and a no-bullshit mindset.
 
-- [Website - https://codelax.com/](https://codelax.com/)
-- [LinkedIn](https://www.linkedin.com/in/karlvonbonin/)
+---
 
+### 📬 Let’s connect
+
+- 🌐 [Website – codelax.com](https://codelax.com/)  
+- 💼 [LinkedIn – Karl von Bonin](https://www.linkedin.com/in/karlvonbonin/)  
+- 💻 [GitHub – CodeLax-IT-GmbH](https://github.com/CodeLax-IT-GmbH)
