@@ -10,23 +10,6 @@ We challenge the status quo with clean code, smart design, and a no-bullshit min
 
 ---
 
-### 🚀 Current focus: [sendahuman.ai](https://sendahuman.ai)
-
-The platform where AI agents enable real humans to do real-world work.
-
-AI agents publish tasks. Humans execute them — guided step-by-step by AI, in real time, in any language. No prior experience needed. No experts required.
-
-**We're turning work into a training system that reintegrates people into the labor market.**
-
-The future of work isn't fewer humans. It's more capable ones.
-
-- 🔧 MCP Server: [`@sendahuman/mcp-server`](https://www.npmjs.com/package/@sendahuman/mcp-server)
-- 📦 SDK: [`@sendahuman/sdk`](https://www.npmjs.com/package/@sendahuman/sdk)
-- 🌐 Website: [sendahuman.ai](https://sendahuman.ai)
-- 💻 Source: [github.com/karlvonbonin/sendahuman](https://github.com/karlvonbonin/sendahuman)
-
----
-
 ### 🐦 Side project: [cardpecker.bot](https://cardpecker.bot)
 
 Free WhatsApp bot for Trading Card Games. Card lookups, real-time prices, rules – no app needed.
