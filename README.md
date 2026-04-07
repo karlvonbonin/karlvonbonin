@@ -18,7 +18,6 @@ Free WhatsApp bot for Trading Card Games. Card lookups, real-time prices, rules 
 
 ### 📬 Let's connect
 
-- 🌐 [sendahuman.ai](https://sendahuman.ai)
 - 🏢 [codelax.com](https://codelax.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/karlvonbonin)
 - 💻 [CodeLax GitHub](https://github.com/CodeLax-IT-GmbH)
